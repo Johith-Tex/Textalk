@@ -12,7 +12,7 @@
 [![Tailwind](https://img.shields.io/badge/Tailwind_3-38BDF8?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![License](https://img.shields.io/badge/License-MIT-1D9E75?style=flat)](LICENSE)
 
-[Live Demo](#) · [Report a Bug](../../issues) · [Request a Feature](../../issues)
+[Live Demo](https://txtalk.netlify.app) · [Report a Bug](../../issues) · [Request a Feature](../../issues)
 
 </div>
 
@@ -249,6 +249,7 @@ npm run build
 - [ ] Phase 6 — Push notifications
 - [ ] Phase 7 — Post comments
 - [ ] Phase 8 — Story / 24h disappearing posts
+- [ ] Phase 9 — Shop/Economy system
 
 ---
 
